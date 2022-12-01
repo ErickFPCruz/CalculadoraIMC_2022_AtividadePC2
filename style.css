@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(43, 42, 42);
+    color: rgb(224, 233, 142);
+}
+
+div {
+    margin: 5px;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+}
+
+.texto{
+    margin-bottom: 0;
+    text-align: center;
+}
+
+input, button {
+    outline: none;
+}
+
+input {
+    color: rgb(224, 233, 142);
+    background-color: rgb(73, 71, 71);
+    margin-bottom: 10px;
+}
+
+label, button {
+    display: block;
+}
